@@ -11,6 +11,14 @@
 2019115127 - Mohnishh Sivan</br>
 <p></p>
 
+<h4><b>CATEGORY :-</b></h4> 
+Cloud Application Development</br>
+<p></p>
+
+<h4><b>SKILLS REQUIRED :-</b></h4>
+IBM Cloud, HyperText Markup Language (HTML), JavaScript (JS), IBM Cloud Object Storage, Python-Flask, Kubernetes, Docker, IBM DB2, IBM Container Registry.</br>
+<p></p>
+
 <h4><b>ABOUT :-</b></h4> 
 Skilled Or Fresher Can Log In And Find The Jobs By Using The Search Option Or They Can Directly Interact With The Chatbot And Get Their Dream Job. We Can Use A Job Search API To Get The Current Job Openings In The Market Which Will Fetch The Data Directly From The Webpage. An Alert Is Sent When There Is An Opening Based On The User Skillset.
 <p></p>
