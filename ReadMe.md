@@ -20,7 +20,9 @@ IBM Cloud, HyperText Markup Language (HTML), JavaScript (JS), IBM Cloud Object S
 <p></p>
 
 <h4><b>ABOUT :-</b></h4> 
-Skilled Or Fresher Can Log In And Find The Jobs By Using The Search Option Or They Can Directly Interact With The Chatbot And Get Their Dream Job. We Can Use A Job Search API To Get The Current Job Openings In The Market Which Will Fetch The Data Directly From The Webpage. An Alert Is Sent When There Is An Opening Based On The User Skillset.
+Having Lots Of Skills But Wondering Which Job Will Best Suit You ? Do Not Worry ! We Have Come Up With A Skill Recommender Solution Through Which The Fresher Or The Skilled Person Can Log In And Find The Jobs By Using The Search Option Or They Can Directly Interact With The Chatbot And Get Their Dream Job.
+<p></p>
+To Develop An End-To-End Web Application Capable Of Displaying The Current Job Openings Based On The User Skillset. The User And Their Information Are Stored In The Database.  An Alert Is Sent When There Is An Opening Based On The User Skillset. Users Will Interact With The Chatbot And Can Get The Recommendations Based On Their Skills. We Can Use A Job Search API To Get The Current Job Openings In The Market Which Will Fetch The Data Directly From The Webpage.
 <p></p>
 
 <h4><b>TECHNICAL ARCHITECTURE :-</b></h4>
